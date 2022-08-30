@@ -55,6 +55,18 @@
     border-radius: 15px;
     overflow-x: hidden;
 }
+.text-box p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 20px;
+}
+.text-box ul{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 20px;
+}
+.text-box{
+    font-family: 'Open Sans', sans-serif;
+    margin-inline: 2px;
+}
 .text-img-box{
     display: flex;
     flex-flow: column;
