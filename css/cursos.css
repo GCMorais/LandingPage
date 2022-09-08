@@ -1,0 +1,41 @@
+#cursos{
+    width: 100%;
+    background-color: white;
+}
+.cursos-header h1{
+    text-align: left;
+    padding-top: 2rem;
+    color: #555456;
+    font-size: 3rem;
+    text-shadow: 0px 0px 1px black;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.cursos-header h2{
+    text-align: left;
+    padding-top: 1rem;
+    color: rgb(85, 85, 85);
+    font-size: 1rem;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.curso-img{
+    padding-top: 5rem;
+}
+.curso-img img{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin: 0px auto;
+    box-shadow: 1px 1px 10px #898989;
+    border-radius: 10px;
+}
+.curso-text h1{
+    text-align: center;
+    padding: 4rem;
+    color: #555456;
+    font-size: 1rem;
+    text-shadow: 0px 0px 1px black;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 500;
+}

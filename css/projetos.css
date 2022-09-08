@@ -27,7 +27,7 @@
     width: 50%;
     height: 50%;
     border-radius: 15px;
-    box-shadow: 1px 1px 15px black;
+    box-shadow: 1px 1px 10px #898989;
 }
 .project-area p{
     font-family: 'Open Sans', sans-serif;
@@ -55,7 +55,7 @@
     width: 50%;
     height: 50%;
     border-radius: 15px;
-    box-shadow: 1px 1px 15px black;
+    box-shadow: 1px 1px 10px #898989;
 }
 .project-area2 p{
     font-family: 'Open Sans', sans-serif;
@@ -87,7 +87,7 @@
     width: 50%;
     height: 50%;
     border-radius: 15px;
-    box-shadow: 1px 1px 15px black;
+    box-shadow: 1px 1px 10px #898989;
 }
 .project-area3 p{
     font-family: 'Open Sans', sans-serif;
