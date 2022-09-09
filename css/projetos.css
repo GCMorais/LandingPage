@@ -105,3 +105,46 @@
     display: flex;
     padding-left: 2rem;
 }
+@media (max-width: 768px) {
+    .project-area{
+        display: unset;
+    }
+    .project-area img {
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .project-text {
+        padding-top: 2rem;
+    }
+    .project-area2{
+        display: unset;
+    }
+    .project-area2 img {
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .project-area2 p {
+        text-align: left;
+        padding-left: 2rem;
+    }
+    .project-text2 {
+        padding-top: 2rem;
+    }
+    .project-area2 h3 {
+        padding-left: 2rem;
+        text-align: left;
+    }
+    .project-area3{
+        display: unset;
+    }
+    .project-area3 img {
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .project-text3 {
+        padding-top: 2rem;
+    }
+    .projetos{
+        padding-bottom: 3rem;
+    }
+}

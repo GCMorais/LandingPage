@@ -81,17 +81,33 @@
 }
 
 /* LAYOUTS RESPONSIVO */
-@media (max-width: 768px) {
-   
+@media (max-width: 1440px){
+    .home-img img {
+        width: 14vw;
+    }
 }
-@media (max-width: 470px) {
+@media (max-width: 1024px){
+    .home-img img {
+        width: 18vw;
+    }
+}
+@media (max-width: 768px) {
+    .home-img img {
+        width: 22vw;
+    }
+    .home-page h1 {
+        font-size: 3.68rem;
+    }
+}
+@media (max-width: 500px) {
     #home{
         padding-bottom: 3rem;
     }
    .home-img img{
-    width: 150px;
+        width: 35%;
    }
    .home-page h1{
-    padding-top: 7rem;
+        padding-top: 63%;
+        font-size: 3rem;
    }
 }

@@ -141,3 +141,37 @@
     background-color: #8907fc;
     border-radius: 5px;
 }
+
+/* MEDIA QUERYS */
+@media (max-width: 1024px){
+    .text-box {
+        height: 30rem;
+    }
+}
+@media (max-width: 768px) {
+    .text-box {
+        height: 30rem;
+    }
+}
+@media (max-width: 680px) {
+    .sobre-box{
+        flex-flow: column-reverse;
+    }
+    .text-box{
+        width: 100%;
+        height: 29rem;
+    }
+    .sobre-imgtext{
+        width: 100%;
+        margin-left:0;
+    }
+    .icons-img-box a{
+        margin: 1rem;
+    }
+    .text-img-box li{
+        font-size: 20px;
+    }
+    .text-box ul{
+        font-size: 15px;
+    }
+}

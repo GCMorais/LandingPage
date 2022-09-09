@@ -86,10 +86,13 @@ footer {
   }
 
 /* LAYOUTS RESPONSIVO */
-@media (max-width: 768px) {
+@media (max-width: 964px) {
     header{
         display: flex;
         flex-flow: wrap;
         overflow-x: hidden;
+    }
+    header nav{
+        visibility: hidden;
     }
 }
