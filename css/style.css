@@ -50,23 +50,23 @@ header ul{
 }
 .menu .botton:hover{
     color: #222222;
-    border-bottom: 3px solid #8907fc;
+    border-bottom: 3px solid #8338ec;
     padding-bottom: 19px;
 }
 .menu .home-botton{
     color: #222222;
     font-weight: bold;
-    border-bottom: 3px solid #8907fc;
+    border-bottom: 3px solid #8338ec;
     padding-bottom: 19px;
 }
 .menu .home-botton:hover{
     color: rgb(184, 184, 184);
-    border-bottom: 3px solid #8907fc;
+    border-bottom: 3px solid #8338ec;
     padding-bottom: 19px;
 }
 .menu .contato-botton{
     color: #d8d8d8;
-    background-color: #8907fc;
+    background-color: #8338ec;
     border-radius: 10px;
     padding: 15px 40px 15px;
     font-weight: bold;

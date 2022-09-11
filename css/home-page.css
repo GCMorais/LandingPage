@@ -14,7 +14,7 @@
     text-shadow: -28px 0px 32px rgb(0, 0, 0);
 }
 .home-page bold{
-    color: #8907fc;
+    color: #8338ec;
 }
 .home-page h2{
     color: #dadada;
@@ -110,4 +110,23 @@
         padding-top: 63%;
         font-size: 3rem;
    }
+}
+@media (max-height: 644px){
+    .home-page h1{
+        font-size: 2rem;
+    }
+    .home-img img{
+        visibility: hidden;
+    }
+}
+@media (max-height: 403px){
+    .home-page h1{
+        visibility: hidden;
+    }
+    .home-page h2{
+        visibility: hidden;
+    }
+    .home-img img{
+        visibility: hidden;
+    }
 }
