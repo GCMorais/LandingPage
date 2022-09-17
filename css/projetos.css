@@ -110,8 +110,10 @@
         display: unset;
     }
     .project-area img {
-        width: 100%;
-        margin-top: 5rem;
+        width: 80%;
+        display: flex;
+        margin: 0 auto;
+        /*margin-top: 5rem;*/
     }
     .project-text {
         padding-top: 2rem;
@@ -120,8 +122,10 @@
         display: unset;
     }
     .project-area2 img {
-        width: 100%;
-        margin-top: 5rem;
+        width: 80%;
+        display: flex;
+        margin: 0 auto;
+        /*margin-top: 5rem;*/
     }
     .project-area2 p {
         text-align: left;
@@ -138,8 +142,10 @@
         display: unset;
     }
     .project-area3 img {
-        width: 100%;
-        margin-top: 5rem;
+        width: 80%;
+        display: flex;
+        margin: 0 auto;
+        /*margin-top: 5rem;*/
     }
     .project-text3 {
         padding-top: 2rem;
